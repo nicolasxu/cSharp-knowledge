@@ -40,10 +40,24 @@
     <Compile Include="EmptyClass.cs" />
     <Compile Include="knowledge\basic_concept\CLR_.cs" />
     <Compile Include="knowledge\basic_concept\CTS_types.cs" />
+    <Compile Include="knowledge\quiz\quiz.cs" />
+    <Compile Include="knowledge\basic_concept\Global_case_keyword.cs" />
+    <Compile Include="knowledge\basic_concept\Static_key_word.cs" />
+    <Compile Include="knowledge\basic_concept\process_system_args.cs" />
+    <Compile Include="knowledge\basic_concept\getting_info_from_System_Environment.cs" />
+    <Compile Include="knowledge\basic_concept\System.Console.class.cs" />
+    <Compile Include="knowledge\basic_concept\SystemDataType.cs" />
+    <Compile Include="knowledge\basic_concept\TypeObjectMethod.cs" />
+    <Compile Include="knowledge\basic_concept\DateTime_type.cs" />
+    <Compile Include="knowledge\basic_concept\BigNumber_RealNumber.cs" />
+    <Compile Include="knowledge\basic_concept\Working_with_String.cs" />
+    <Compile Include="knowledge\basic_concept\Date_object.cs" />
+    <Compile Include="knowledge\basic_concept\Type_narow_widen.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Folder Include="knowledge\" />
     <Folder Include="knowledge\basic_concept\" />
+    <Folder Include="knowledge\quiz\" />
   </ItemGroup>
 </Project>
