@@ -53,11 +53,16 @@
     <Compile Include="knowledge\basic_concept\Working_with_String.cs" />
     <Compile Include="knowledge\basic_concept\Date_object.cs" />
     <Compile Include="knowledge\basic_concept\Type_narow_widen.cs" />
+    <Compile Include="knowledge\basic_concept\Loop.cs" />
+    <Compile Include="knowledge\basic_concept2\Param_passing_behavior.cs" />
+    <Compile Include="knowledge\basic_concept2\Named_argument.cs" />
+    <Compile Include="knowledge\basic_concept2\Method_overload.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Folder Include="knowledge\" />
     <Folder Include="knowledge\basic_concept\" />
     <Folder Include="knowledge\quiz\" />
+    <Folder Include="knowledge\basic_concept2\" />
   </ItemGroup>
 </Project>
