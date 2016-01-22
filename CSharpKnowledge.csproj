@@ -57,6 +57,10 @@
     <Compile Include="knowledge\basic_concept2\Param_passing_behavior.cs" />
     <Compile Include="knowledge\basic_concept2\Named_argument.cs" />
     <Compile Include="knowledge\basic_concept2\Method_overload.cs" />
+    <Compile Include="knowledge\basic_concept2\Array_example.cs" />
+    <Compile Include="knowledge\basic_concept2\Enum_type.cs" />
+    <Compile Include="knowledge\basic_concept2\Structure_type.cs" />
+    <Compile Include="knowledge\basic_concept2\Nullable_type.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
