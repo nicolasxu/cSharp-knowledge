@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="CSharpKnowledge.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="knowledge/basic_concept2/Enum_type.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="knowledge/basic_concept2/Nullable_type.cs">
     <Files>
-      <File FileName="knowledge/basic_concept2/Array_example.cs" Line="97" Column="42" />
-      <File FileName="knowledge/basic_concept2/Enum_type.cs" Line="11" Column="4" />
+      <File FileName="knowledge/basic_concept2/Array_example.cs" Line="1" Column="1" />
+      <File FileName="knowledge/basic_concept2/Structure_type.cs" Line="1" Column="1" />
+      <File FileName="knowledge/basic_concept2/Nullable_type.cs" Line="45" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

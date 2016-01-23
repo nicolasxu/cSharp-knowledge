@@ -61,6 +61,16 @@
     <Compile Include="knowledge\basic_concept2\Enum_type.cs" />
     <Compile Include="knowledge\basic_concept2\Structure_type.cs" />
     <Compile Include="knowledge\basic_concept2\Nullable_type.cs" />
+    <Compile Include="knowledge\OO\Chain_constructor.cs" />
+    <Compile Include="knowledge\OO\Static_keyword.cs" />
+    <Compile Include="knowledge\OO\Access_modifier.cs" />
+    <Compile Include="knowledge\OO\Getter_setter.cs" />
+    <Compile Include="knowledge\OO\Properties_in_Constructor.cs" />
+    <Compile Include="knowledge\OO\Static_properties.cs" />
+    <Compile Include="knowledge\OO\Automatic_properties.cs" />
+    <Compile Include="knowledge\OO\Init_syntax.cs" />
+    <Compile Include="knowledge\OO\Readonly_constant.cs" />
+    <Compile Include="Partial.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -68,5 +78,6 @@
     <Folder Include="knowledge\basic_concept\" />
     <Folder Include="knowledge\quiz\" />
     <Folder Include="knowledge\basic_concept2\" />
+    <Folder Include="knowledge\OO\" />
   </ItemGroup>
 </Project>
