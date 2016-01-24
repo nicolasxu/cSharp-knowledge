@@ -61,16 +61,28 @@
     <Compile Include="knowledge\basic_concept2\Enum_type.cs" />
     <Compile Include="knowledge\basic_concept2\Structure_type.cs" />
     <Compile Include="knowledge\basic_concept2\Nullable_type.cs" />
-    <Compile Include="knowledge\OO\Chain_constructor.cs" />
-    <Compile Include="knowledge\OO\Static_keyword.cs" />
-    <Compile Include="knowledge\OO\Access_modifier.cs" />
-    <Compile Include="knowledge\OO\Getter_setter.cs" />
-    <Compile Include="knowledge\OO\Properties_in_Constructor.cs" />
-    <Compile Include="knowledge\OO\Static_properties.cs" />
-    <Compile Include="knowledge\OO\Automatic_properties.cs" />
-    <Compile Include="knowledge\OO\Init_syntax.cs" />
-    <Compile Include="knowledge\OO\Readonly_constant.cs" />
     <Compile Include="Partial.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Access_modifier.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Automatic_properties.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Chain_constructor.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Getter_setter.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Init_syntax.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Properties_in_Constructor.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Readonly_constant.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Static_keyword.cs" />
+    <Compile Include="knowledge\OO\encapsulation\Static_properties.cs" />
+    <Compile Include="knowledge\OO\inheritance\Basic.cs" />
+    <Compile Include="knowledge\OO\inheritance\Multiple_inheritance.cs" />
+    <Compile Include="knowledge\OO\inheritance\Sealed_keyword.cs" />
+    <Compile Include="knowledge\OO\inheritance\EmptyClass.cs" />
+    <Compile Include="knowledge\OO\inheritance\base_keyword.cs" />
+    <Compile Include="knowledge\OO\inheritance\Nexted_type.cs" />
+    <Compile Include="knowledge\OO\inheritance\Virtual_overwride.cs" />
+    <Compile Include="knowledge\OO\inheritance\Virtual_override_sealed.cs" />
+    <Compile Include="knowledge\OO\inheritance\Abstract_class.cs" />
+    <Compile Include="knowledge\OO\inheritance\Member_shadow.cs" />
+    <Compile Include="knowledge\OO\inheritance\Class_casting_rule.cs" />
+    <Compile Include="knowledge\OO\inheritance\System_object.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -79,5 +91,7 @@
     <Folder Include="knowledge\quiz\" />
     <Folder Include="knowledge\basic_concept2\" />
     <Folder Include="knowledge\OO\" />
+    <Folder Include="knowledge\OO\encapsulation\" />
+    <Folder Include="knowledge\OO\inheritance\" />
   </ItemGroup>
 </Project>
