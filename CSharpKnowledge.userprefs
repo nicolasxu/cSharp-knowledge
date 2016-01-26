@@ -1,6 +1,10 @@
 ﻿<Properties StartupItem="CSharpKnowledge.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="knowledge/OO/inheritance/base_keyword.cs">
+    <Files>
+      <File FileName="knowledge/OO/inheritance/base_keyword.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
