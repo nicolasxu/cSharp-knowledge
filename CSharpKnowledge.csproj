@@ -74,15 +74,22 @@
     <Compile Include="knowledge\OO\inheritance\Basic.cs" />
     <Compile Include="knowledge\OO\inheritance\Multiple_inheritance.cs" />
     <Compile Include="knowledge\OO\inheritance\Sealed_keyword.cs" />
-    <Compile Include="knowledge\OO\inheritance\EmptyClass.cs" />
     <Compile Include="knowledge\OO\inheritance\base_keyword.cs" />
-    <Compile Include="knowledge\OO\inheritance\Nexted_type.cs" />
     <Compile Include="knowledge\OO\inheritance\Virtual_overwride.cs" />
     <Compile Include="knowledge\OO\inheritance\Virtual_override_sealed.cs" />
     <Compile Include="knowledge\OO\inheritance\Abstract_class.cs" />
     <Compile Include="knowledge\OO\inheritance\Member_shadow.cs" />
     <Compile Include="knowledge\OO\inheritance\Class_casting_rule.cs" />
     <Compile Include="knowledge\OO\inheritance\System_object.cs" />
+    <Compile Include="knowledge\OO\inheritance\Nested_type.cs" />
+    <Compile Include="knowledge\exception_handling\Throw_exception.cs" />
+    <Compile Include="knowledge\exception_handling\System_exception.cs" />
+    <Compile Include="knowledge\exception_handling\Application_exception.cs" />
+    <Compile Include="knowledge\exception_handling\Catch_chain_exception.cs" />
+    <Compile Include="knowledge\exception_handling\Rethrowing_exception.cs" />
+    <Compile Include="knowledge\exception_handling\Inner_exception.cs" />
+    <Compile Include="knowledge\exception_handling\Final.cs" />
+    <Compile Include="knowledge\exception_handling\When_keyword.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -93,5 +100,6 @@
     <Folder Include="knowledge\OO\" />
     <Folder Include="knowledge\OO\encapsulation\" />
     <Folder Include="knowledge\OO\inheritance\" />
+    <Folder Include="knowledge\exception_handling\" />
   </ItemGroup>
 </Project>

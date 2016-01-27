@@ -7,7 +7,7 @@ namespace CSharpKnowledge
 		public base_keyword ()
 		{	
 			// "this() is used to call constructor of this class, 
-			//   not parent class"
+			// "base()" is used to call constructor of parent class"
 			// - used to call base class constructor
 			// - You may use the base keyword whenever a subclass wants to access a public 
 			//   or protected member defined by a parent class.
