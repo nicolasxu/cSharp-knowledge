@@ -4,6 +4,9 @@ namespace CSharpKnowledge
 {
 
 	class Car { 
+		// definitioN:
+		//    backing field is the hidden field in the class that support properties, and
+		//    backing field is invisible to class user. 
 		// Automatic properties! 
 		//No need to define backing fields. 
 		public string PetName { get; set; }

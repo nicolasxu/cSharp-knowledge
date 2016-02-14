@@ -90,6 +90,19 @@
     <Compile Include="knowledge\exception_handling\Inner_exception.cs" />
     <Compile Include="knowledge\exception_handling\Final.cs" />
     <Compile Include="knowledge\exception_handling\When_keyword.cs" />
+    <Compile Include="knowledge\OO\Interface\Interface_basic.cs" />
+    <Compile Include="knowledge\OO\Interface\interface_syntac.cs" />
+    <Compile Include="knowledge\OO\Interface\invoking_mixed_array_of_instance.cs" />
+    <Compile Include="knowledge\OO\Interface\interface_as_parameter.cs" />
+    <Compile Include="knowledge\OO\Interface\interface_as_return_value.cs" />
+    <Compile Include="knowledge\OO\Interface\array_of_interface.cs" />
+    <Compile Include="knowledge\OO\Interface\interface_conflict.cs" />
+    <Compile Include="knowledge\OO\Interface\implemented_interface_is_private.cs" />
+    <Compile Include="knowledge\OO\Interface\inteface_hierarchy.cs" />
+    <Compile Include="knowledge\OO\Interface\IEnumerator_interface.cs" />
+    <Compile Include="knowledge\OO\Interface\ICloneable.cs" />
+    <Compile Include="knowledge\OO\Interface\IComparable.cs" />
+    <Compile Include="knowledge\OO\Interface\IComparer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -101,5 +114,6 @@
     <Folder Include="knowledge\OO\encapsulation\" />
     <Folder Include="knowledge\OO\inheritance\" />
     <Folder Include="knowledge\exception_handling\" />
+    <Folder Include="knowledge\OO\Interface\" />
   </ItemGroup>
 </Project>

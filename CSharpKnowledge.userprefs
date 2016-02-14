@@ -1,8 +1,16 @@
 ﻿<Properties StartupItem="CSharpKnowledge.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="knowledge/OO/inheritance/base_keyword.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="knowledge/OO/encapsulation/Access_modifier.cs">
     <Files>
-      <File FileName="knowledge/OO/inheritance/base_keyword.cs" Line="10" Column="9" />
+      <File FileName="knowledge/OO/inheritance/base_keyword.cs" Line="1" Column="1" />
+      <File FileName="knowledge/exception_handling/Throw_exception.cs" Line="1" Column="1" />
+      <File FileName="knowledge/exception_handling/Rethrowing_exception.cs" Line="1" Column="1" />
+      <File FileName="knowledge/exception_handling/Inner_exception.cs" Line="1" Column="1" />
+      <File FileName="knowledge/exception_handling/Final.cs" Line="1" Column="1" />
+      <File FileName="knowledge/exception_handling/When_keyword.cs" Line="1" Column="1" />
+      <File FileName="knowledge/OO/inheritance/Class_casting_rule.cs" Line="1" Column="1" />
+      <File FileName="knowledge/basic_concept2/Structure_type.cs" Line="24" Column="85" />
+      <File FileName="knowledge/OO/encapsulation/Access_modifier.cs" Line="17" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

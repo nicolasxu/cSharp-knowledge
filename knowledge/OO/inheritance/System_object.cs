@@ -10,7 +10,7 @@ namespace CSharpKnowledge
 			// GetHashCode();
 			// ToString();
 			// GetType();
-			// MeberwiseClone()
+			// MemberwiseClone()
 		}
 
 		public void Equals() {

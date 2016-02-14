@@ -21,7 +21,7 @@ namespace CSharpKnowledge
 		public abstract void Pay() {
 			// child must override abstract method, 
 			// child does not have to override virtual method
-			// abstract method must be abstract class, or compiling error
+			// abstract method must be in abstract class, or compiling error
 
 			//“I have a method named Pay() that takes no arguments and returns nothing. 
 			// If you derive from me, you figure out the details.”
